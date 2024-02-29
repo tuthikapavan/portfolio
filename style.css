@@ -42,9 +42,10 @@ body{
     margin:0;
     height: 86vh;
     width: 100%;
-    background-repeat: no-repeat;
+/*     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(./PICS/bg.jpeg);
+    background-image: url(./PICS/bg.jpeg); */
+    background-color: #000000;
     text-align: center;
     justify-content: center;
 }
